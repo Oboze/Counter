@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+}
+
+p#display{
+    font-size: 72px;
+    padding:10px;
+}
+
+.btn{
+    padding:5px;
+    border-radius:5px;
+    font-weight: 900;
+}
